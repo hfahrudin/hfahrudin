@@ -5,11 +5,11 @@ Here's a minimal README layout with GitHub profile widgets for a concise and vis
 
 # 👋 Hi, I'm Hasby!
 
-[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)](https://github.com/yourusername)
+[![Profile Views](https://komarev.com/ghpvc/?username=hfahrudin&color=blue)](https://github.com/hfahrudin)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hfahrudin&layout=compact&theme=radical)](https://github.com/hfahrudin)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hfahrudin&show_icons=true&theme=radical)](https://github.com/hfahrudin)
 
 ---
 
