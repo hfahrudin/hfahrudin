@@ -1,17 +1,9 @@
-## Hi there 👋
-Here's a minimal README layout with GitHub profile widgets for a concise and visually engaging profile:
-
----
 
 # 👋 Hi, I'm Hasby!
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hfahrudin&color=blue)](https://github.com/hfahrudin)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hfahrudin&show_icons=true&theme=radical)](https://github.com/hfahrudin)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hfahrudin&layout=compact&theme=radical)](https://github.com/hfahrudin)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hfahrudin&theme=radical)](https://github.com/hfahrudin)
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hfahrudin&theme=radical)](https://github.com/hfahrudin)
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=hfahrudin&theme=radical)](https://github.com/hfahrudin)
 
 ---
 
