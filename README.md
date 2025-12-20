@@ -3,7 +3,7 @@
 A guy who loves building things, with a current aspiration for performance and orchestration within the world of applied AI/ML.
 
 Currently, I put my spare time to built/maintain some tools which I use it as a part of my workflow:
-- [**Orkes**](https://github.com/hfahrudin/orkes): A lightweight orchestration framework for LLM agents, no abstractions you don’t need, just clean coordination logic that works.
+- [**Orkes**](https://github.com/hfahrudin/orkes): A lightweight orchestration framework for LLM agents, no abstractions you don’t need, just clean logic that works.
 - [**Flowkestra**:](https://github.com/hfahrudin/flowkestra): A Lightweight Orchestrator for Machine Learning Experiments in your MLFlow environment.
 
 In addition, I love exploring emerging technologies in the AI/ML space and integrating them into decent MVPs. I update my experimental repositor from time to time with my latest findings. [[link]](https://github.com/hfahrudin/automation-labs) 
