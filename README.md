@@ -1,6 +1,6 @@
 ## Hello There!👋
 
-I am an aspiring programming wizard with a passion for performant and orchestration, with the goal of bring it to the world of applied AI/ML.
+I am an aspiring programming wizard with a passion for performant and orchestration, with the goal of bringing them into the world of applied AI/ML.
 
 Currently, I put my spare to built/maintain some tools which I use it as a part of my workflow:
 - [**Orkes**](https://github.com/hfahrudin/orkes): A lightweight orchestration framework for LLM agents, no abstractions you don’t need, just clean coordination logic that works.
