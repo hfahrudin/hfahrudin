@@ -1,8 +1,8 @@
 ## Hello There!👋
 
-I am an aspiring programming wizard with a passion for performant and orchestration, with the goal of bringing them into the world of applied AI/ML.
+A guy who loves building things, with a current aspiration for performance and orchestration within the world of applied AI/ML.
 
-Currently, I put my spare to built/maintain some tools which I use it as a part of my workflow:
+Currently, I put my spare time to built/maintain some tools which I use it as a part of my workflow:
 - [**Orkes**](https://github.com/hfahrudin/orkes): A lightweight orchestration framework for LLM agents, no abstractions you don’t need, just clean coordination logic that works.
 - [**Flowkestra**:](https://github.com/hfahrudin/flowkestra): A Lightweight Orchestrator for Machine Learning Experiments in your MLFlow environment.
 
