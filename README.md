@@ -1,6 +1,6 @@
 ## Hello There!👋
 
-A guy who loves building things, with a current aspiration for observability and orchestration within the world of applied AI/ML.
+I enjoy building things from the ground up, and I’m currently focused on observability and orchestration in applied AI/ML systems.
 
 Currently, I put my spare time to built/maintain some tools which I use it as a part of my workflow:
 - [**Orkes**](https://github.com/hfahrudin/orkes): A lightweight orchestration framework for LLM agents, no abstractions you don’t need, just clean logic that works.
