@@ -10,6 +10,5 @@ In addition, I love exploring emerging technologies in the AI/ML space and integ
 
 Always down to collaborate with curious minds. If you have an idea or just want to talk tech, hit me up!
 
-
 [<img src="https://img.shields.io/badge/gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="25">](mailto:fahrudinhasby12@gmail.com)
 [<img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white" height="25">](https://discord.gg/682hZfEh)
