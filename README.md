@@ -4,6 +4,7 @@ I enjoy building things from the ground up, and I’m currently focused on obser
 
 Currently, I put my spare time to built/maintain some tools which I use it as a part of my workflow:
 - [**Orkes**](https://github.com/hfahrudin/orkes): A lightweight orchestration framework for LLM agents, no abstractions you don’t need, just clean logic that works.
+- [**Orkes Watcher**](https://github.com/hfahrudin/orkes-watcher): observability platform for Orkes, graph-based agents. It just answers, for any run, exactly what happened.
 - [**Flowkestra**](https://github.com/hfahrudin/flowkestra): A Lightweight orchestrator for Machine Learning Experiments in your MLFlow environment.
 
 In addition, I love exploring emerging technologies in the AI/ML space and integrating them into decent MVPs. I update my experimental repository from time to time with my latest findings [[link]](https://github.com/hfahrudin/automation-labs).
